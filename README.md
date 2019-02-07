@@ -1,6 +1,6 @@
 # Jupyter notebook demonstratin how to control LED with RPi.GIPO library.
 
-Prequsit:
+Prerequisite:
 * RaspberryPI running raspberrian linux.
 * Phyton3
 * pip
