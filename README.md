@@ -8,7 +8,7 @@ Prequsit:
 
 **Step1:**
 Install Jupyter
-´pip install jupyter´
+`pip install jupyter`
 
 **Step2:**
 Clone this repo.
