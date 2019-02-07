@@ -2,7 +2,7 @@
 
 Prerequisite:
 * RaspberryPI running raspberrian linux.
-* Phyton3
+* Python3
 * pip
 * git
 
